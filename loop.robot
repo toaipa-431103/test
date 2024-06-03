@@ -59,4 +59,5 @@ Do Something
 A Repeatable Keyword
     Log        ${abc}
     log     test
+    Log         test2
 
